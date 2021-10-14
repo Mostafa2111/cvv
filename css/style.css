@@ -1,0 +1,32 @@
+.Profile
+{
+    letter-spacing: 0.5ch;
+    font-family: arial;
+}
+.Education
+{
+    letter-spacing: 0.5ch;
+    font-family: arial;
+}
+.cert
+{
+    letter-spacing: 0.5ch;
+    font-family: arial; 
+}
+.skill
+{
+    letter-spacing: 0.5ch;
+    font-family: arial; 
+}
+.work
+{
+    letter-spacing: 0.5ch;
+    font-family: arial; 
+}
+a{
+    text-decoration: none;
+}
+.me
+{
+    float: right;
+}
